@@ -1,0 +1,32 @@
+.friend-container {
+    background-color: #fff;
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 120px;
+
+}
+
+.friend-list {
+    background-color: gray;
+    list-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+
+.friend-item {}
+
+
+
+.friend-status {
+    color: red;
+}
+
+.friend-status.online {
+    color: green;
+}
