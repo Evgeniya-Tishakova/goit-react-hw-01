@@ -1,4 +1,3 @@
-import css from "./App.module.css";
 import Profile from "../Profile/Profile.jsx";
 import TransactionHistory from "../Transaction/TransactionHistory.jsx";
 import FriendList from "../Friend/FriendList.jsx";
